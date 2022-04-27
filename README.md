@@ -11,22 +11,22 @@ The purpose of this project is to explore some of the sampling methods and machi
 ## Results
 
 ### Native Random Oversampling:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/native_over.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/native_over.png)
 
 ### SMOTE Oversampling:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/smote_over.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/smote_over.png)
 
 ### ClusterCentroids Undersampling:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/cc_under.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/cc_under.png)
 
 ### SMOTEENN Combined Over and Undersampling:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/smoteenn_combined.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/smoteenn_combined.png)
 
 ### BalancedRandomForestClassifier Ensemble:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/brfc_ensemble.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/brfc_ensemble.png)
 
 ### EasyEnsembleClassifier Ensemble:
-<p align="center">![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/eec_ensemble.png)</p>
+![image](https://github.com/msaunders0/Credit_Risk_Analysis/blob/main/Resources/eec_ensemble.png)
 
 ## Summary
 
